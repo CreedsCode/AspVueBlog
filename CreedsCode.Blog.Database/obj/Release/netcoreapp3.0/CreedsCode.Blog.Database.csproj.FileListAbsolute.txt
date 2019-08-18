@@ -1,0 +1,14 @@
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Database.deps.json
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Database.runtimeconfig.json
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Database.runtimeconfig.dev.json
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Database.dll
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Database.pdb
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Domain.dll
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\bin\Release\netcoreapp3.0\CreedsCode.Blog.Domain.pdb
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.csprojAssemblyReference.cache
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.csproj.CoreCompileInputs.cache
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.AssemblyInfoInputs.cache
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.AssemblyInfo.cs
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.csproj.CopyComplete
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.dll
+C:\Users\hoffm\source\repos\CreedsCode.Blog\CreedsCode.Blog.Database\obj\Release\netcoreapp3.0\CreedsCode.Blog.Database.pdb
